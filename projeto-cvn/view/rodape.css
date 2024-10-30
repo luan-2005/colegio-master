@@ -1,0 +1,25 @@
+ul{
+    list-style-type: none;
+}
+li{
+    color: rgb(105, 105, 105);
+}
+
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+
+.baixo{
+    width: 100%;
+    height: auto;
+    background-color: black;
+}
+
+.tecnologias{
+    height: auto;
+    background-color: none;
+}
+
+
+

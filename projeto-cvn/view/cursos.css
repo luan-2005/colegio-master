@@ -1,0 +1,67 @@
+.curso1{
+    height: 600px;
+    border: 2px solid black;
+    float: left;
+    text-align: center;
+}
+
+.curso1 a{
+    color: white;
+    font-size: 20px;
+}
+
+.curso1 p{
+    margin-top: 1%;
+    font-size: 19.8px;
+}
+
+.curso1 h5{
+    margin-top: 3%;
+}
+
+.curso2{
+    height: auto;
+    border: 2px solid black;
+    float: left;
+    text-align: center;
+}
+
+.curso2 a{
+    color: white;
+    font-size: 20px;
+}
+
+.curso2 p{
+    margin-top: 1%;
+    font-size: 19.8px;
+}
+
+.curso2 h5{
+    margin-top: 3%;
+}
+
+.curso3{
+    
+    height: 600px;
+    border: 2px solid black;
+    float: left;
+    text-align: center;
+}
+
+.curso3 a{
+    color: white;
+    font-size: 20px;
+}
+
+.curso3 p{
+    margin-top: 5%;
+    font-size: 19.8px;
+}
+
+.curso3 h5{
+    margin-top: 3%;
+}
+
+h3{
+    text-align: center;
+}

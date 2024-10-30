@@ -1,0 +1,25 @@
+
+
+
+.titulo{
+    margin-left: 30%;
+    margin-top: 5%;
+}
+
+.login{
+   margin-left: 35%;
+   border: 2px solid black;
+   border-radius: 15px;
+}
+
+.login label{
+    font-size: 20px;
+    top: 5px;
+    margin: 5px;
+}
+
+.login button{
+    border-radius: 10px;
+    margin: 10px;
+}
+
